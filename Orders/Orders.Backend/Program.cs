@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Orders.Backend.Controllers.Data;
+using Orders.Backend.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
